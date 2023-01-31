@@ -6,6 +6,8 @@
 
 * *git branch branch_name* - создание новой ветки с именем branch_name
 
+* *git checkout branch_name* - переход на ветку branch_name ("корневая" или дефолтная ветка - master)
+
 ## Слияние веток
 
 ## Устранение конфликтов при слиянии
