@@ -14,11 +14,11 @@
 
 * *git branch -d branch_name* - удаление ветки branch_name
 
-File + File_withNewLines - слияние файлов без конфликтов, итоговый - File_withNewLines
+**File + File_withNewLines** - слияние файлов без конфликтов, итоговый - File_withNewLines
 
-File_withNewLines + File_withNewLines - слияние файлов без конфликтов, итоговый файл - файл со всеми добавленными строками
+**File_withNewLines + File_withNewLines** - слияние файлов без конфликтов, итоговый файл - файл со всеми добавленными строками
 
-File_modifide + File_modifide - слияние с конфликтом, после его решения нужно сделать commit
+**File_modifide + File_modifide** - слияние с конфликтом, после его решения нужно сделать commit
 
 ## Устранение конфликтов при слиянии
 
