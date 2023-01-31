@@ -12,4 +12,6 @@
 
 * *sit merge branch_name* - слияние текущей ветки с веткой branch_name
 
+* *git branch -d branch_name* - удаление ветки branch_name
+
 ## Устранение конфликтов при слиянии
