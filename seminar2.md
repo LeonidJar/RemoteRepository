@@ -18,6 +18,6 @@ File + File_withNewLines - слияние файлов без конфликто
 
 File_withNewLines + File_withNewLines - слияние файлов без конфликтов, итоговый файл - файл со всеми добавленными строками
 
-File_modifide + File_modifide - слияние с конфликтом
+File_modifide + File_modifide - слияние с конфликтом, после его решения нужно сделать commit
 
 ## Устранение конфликтов при слиянии
